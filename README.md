@@ -1,4 +1,4 @@
-# Odin
+# How to inject Odin into paladins,
 modified odinV1 for paladins, by slemknot
 
 TO INJECT ODIN INTO PALADINS DO THE FOLLOWING STEPS,
