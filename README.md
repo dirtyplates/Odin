@@ -1,7 +1,11 @@
 # How to inject Odin into paladins,
 modified odinV1 for paladins, by slemknot
 
+(YOU HAVE TO HAVE "use D3D11" ENABLED IN GAME!
+
 TO INJECT ODIN INTO PALADINS DO THE FOLLOWING STEPS,
+
+
 
 
 STEP 1 --- LAUNCH PALADINS-
