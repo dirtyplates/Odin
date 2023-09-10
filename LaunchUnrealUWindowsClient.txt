@@ -1,0 +1,4 @@
+LaunchUnrealUWindowsClient
+
+(copy and paste 'LaunchUnrealUWindowsClient" into paladins while injector is open,)
+ (while ddl is injecting click on paladins, and wait for odin to inject.)
