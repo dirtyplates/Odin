@@ -19,6 +19,9 @@ STEP 4 === AFTER PRESSING ENTER ON YOUR KEYBOARD. THAN CLICK ON YOUR PALADINS,
 STEP 5 --- WAIT ABOUT 10 SECONDS FOR ODIN TO INJECT AFTERCLICKING ON PALADINS,
 
 
+NOW YOU CAN ENJOY ODIN IN PALADINS!
+
+if you need any help contact me on discord. @semonite
 
 
 (LaunchUnrealUWindowsClient.txt) has a tutorial inside it btw.
